@@ -9,4 +9,4 @@ Elevate Your Product Management Skills with Top-Rated LinkedIn Learning Programs
 * [Technology for Product Managers](https://www.linkedin.com/learning/technology-for-product-managers)
 * [Product Innovation for Product Managers](https://www.linkedin.com/learning/product-innovation-for-product-managers)
 * [Generative AI for Product Managers](https://www.linkedin.com/learning/generative-ai-for-product-managers)
-* [Personal Productivity for Product Managers]
+* [Personal Productivity for Product Managers](https://www.linkedin.com/learning/personal-productivity-for-product-managers)

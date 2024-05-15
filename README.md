@@ -3,7 +3,7 @@ Elevate Your Product Management Skills with Top-Rated LinkedIn Learning Programs
 
 * [Product Management Insights](https://www.linkedin.com/learning/product-management-insights)
 * [Technical Product Management](https://www.linkedin.com/learning/technical-product-management)
-* [Transitioning to Product Management]
+* [Transitioning to Product Management](https://www.linkedin.com/learning/transitioning-to-product-management)
 * [Data-Driven Product Management]
 * [Communication for Product Managers]
 * [Technology for Product Managers]
